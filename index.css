@@ -1,0 +1,54 @@
+.whole{
+    background:lightblue;
+    max-width: 60%;
+    margin:auto;
+}
+body {
+    background-image: url("people-railway.png");
+    background-size: cover;
+    font-family:  'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bold;
+    text-align: center;
+    height:100vh;
+}
+h1 {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    color:#290101;
+    text-shadow:2px 2px white
+}
+
+h2 {
+    font-size: 50px;
+    margin-top: 0;
+    margin-bottom: 20px;
+    color:#000906;
+    text-shadow:2px 2px white;
+}
+.btns{
+    position: relative;
+}
+
+button {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: white;
+    font-weight: bold;
+    width: 200px;
+    margin-bottom: 5px;
+    border-radius: 5px;
+    border: 2px solid burlywood;
+}
+
+#increment-btn {
+    background: darkgoldenrod;
+}
+
+#save-btn {
+    background: darkviolet;
+}
+p{  
+    font-size: 25px;
+    color:#D70101;
+    text-shadow:2px 2px white
+}
